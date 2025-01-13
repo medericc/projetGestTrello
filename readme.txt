@@ -1,0 +1,4 @@
+# URL de la base de données SQLite
+DATABASE_URL="file:./dev.db"
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
