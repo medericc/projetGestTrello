@@ -10,3 +10,7 @@ CMD ["npm", "start"]
 # tapper dans la console : docker build -t nom .
 # tapper : docker images ( pour check le dossier si il est dans le . des images docker )
 # docker run -p 3000:3000 nom
+
+# docker ps = conteneur en cours d execution
+# pour arreter : docker stop <SON ID>
+# docker rmi <NOM_IMAGE>
